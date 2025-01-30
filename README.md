@@ -1,6 +1,6 @@
 # Hi there, I'm Mahendranathreddy Narpala! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x400.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://github.com/Mahinarpala-9999/Mahinarpala-9999/blob/main/Grey%20Red%20Modern%20LinkedIn%20Article%20Cover%20Image.png)
 
 ## 🚀 About Me
 I'm a passionate **Cybersecurity Enthusiast** pursuing a **Bachelor of Technology in Computer Science and Engineering** at **KL University**. 
