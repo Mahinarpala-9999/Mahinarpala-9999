@@ -31,12 +31,10 @@ My goal is to leverage my skills in cybersecurity to detect and mitigate securit
 
 ## 🛠 Projects
 ### **🔍 Weapons Detection in Real-Time Surveillance Videos**
-![Weapons Detection](https://via.placeholder.com/800x400.png?text=Weapons+Detection+Project)
 - Developed a **Python-based** system to detect **guns** using **OpenCV, TensorFlow, and PIL**.
 - Processed live CCTV footage to trigger **real-time alerts** for security enhancements.
 
 ### **📊 Analyzing DNS Logs Using Splunk SIEM**
-![DNS Logs Analysis](https://via.placeholder.com/800x400.png?text=DNS+Logs+Analysis+Project)
 - Uploaded and analyzed **DNS log files** in **Splunk** to detect potential security threats.
 - Used **search queries** to identify **anomalies** and enhance **network security**.
 
